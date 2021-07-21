@@ -4,7 +4,9 @@
     "id": null,
     "url": null
   },
-  "customer": null,
+  "customer": {
+    "email": "testing@test.com"
+  },
   "id": "01FB5CP0VQKP1XE5FMJHQ8S0YK",
   "url": "https://github.com/git-ord/01FB5CP0VQKP1XE5FMJHQ8S0YK.git",
   "status": "open",
@@ -16,12 +18,8 @@
     "amount": 10237,
     "currency": "USD"
   },
-  "discounts": [
-
-  ],
-  "taxes": [
-
-  ],
+  "discounts": [],
+  "taxes": [],
   "shipping": {
     "address": null,
     "method": null,
